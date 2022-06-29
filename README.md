@@ -11,21 +11,26 @@ The purpose of this project was to assist Tom, a Colorado Board of Elections emp
 
 ## Election-Audit Results
 * **Total number of votes cast in the election:**
-369,711
-* **Total number of votes and the percentage of votes for each county:**
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
-* **County with the largest number of votes:**
-Denver
-* **Total number of votes and percentage of votes each candidate received:**
-Charles Casper Stockhan: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
-* **Winning candidate, their vote count, and percentage of total votes:**
- DeGette is the winner with 272,892 votes which is 73.8% of the total votes.
+    * 369,711
 
-![elec](https://user-images.githubusercontent.com/107225715/176361678-d56097cc-b976-4296-9a6d-8284fad1a64b.png)
+* **Total number of votes and the percentage of votes for each county:**
+    * Jefferson: 10.5% (38,855)
+    * Denver: 82.8% (306,055)
+    * Arapahoe: 6.7% (24,801)
+
+* **County with the largest number of votes:**
+    * Denver
+
+* **Total number of votes and percentage of votes each candidate received:**
+    * Charles Casper Stockhan: 23.0% (85,213)
+    * Diana DeGette: 73.8% (272,892)
+    * Raymon Anthony Doane: 3.1% (11,606)
+
+* **Winning candidate, their vote count, and percentage of total votes:**
+    * DeGette is the winner with 272,892 votes which is 73.8% of the total votes.
+
+![elec](https://user-images.githubusercontent.com/107225715/176362539-114fd2eb-b85b-403a-8b3e-a1b46609080a.png)
+
 
 
 ## Election-Audit Summary
