@@ -10,23 +10,27 @@ The purpose of this project was to assist Tom, a Colorado Board of Elections emp
 7. The county with the highest turnout
 
 ## Election-Audit Results
-* Total number of votes cast in the election
+* **Total number of votes cast in the election:**
 369,711
-* Total number of votes and the percentage of votes for each county:
+* **Total number of votes and the percentage of votes for each county:**
 Jefferson: 10.5% (38,855)
 Denver: 82.8% (306,055)
 Arapahoe: 6.7% (24,801)
-* County with the largest number of votes:
+* **County with the largest number of votes:**
 Denver
-* Total number of votes and percentage of votes each candidate received:
+* **Total number of votes and percentage of votes each candidate received:**
 Charles Casper Stockhan: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
-* Winning candidate, their vote count, and percentage of total votes:
-Diana DeGette is the winner with 272,892 votes which is 73.8% of the total votes.
-image
+* **Winning candidate, their vote count, and percentage of total votes:**
+ DeGette is the winner with 272,892 votes which is 73.8% of the total votes.
+
+![elec](https://user-images.githubusercontent.com/107225715/176361678-d56097cc-b976-4296-9a6d-8284fad1a64b.png)
+
 
 ## Election-Audit Summary
 This script is highly manipulable since all the variables are clearly defined and there are comments for all the steps taken. If the election comminssion wants to make any modifications for future elections, they can do so easily by changing the data file and essentially setting more suitable variables. 
+
 This script can be used on a bigger scale to analyze the Senatorial Elections that are conducted on the state level. The possible modification from the dataset could be to switch the county with the state and an addition could be to identify the political party that the candidate represents. 
+
 This script can also be used in analyzing small scale local elections, such as the School Board Elections. The possible modifications could be districts instead of counties but the code should still work with a little tweaking.  
